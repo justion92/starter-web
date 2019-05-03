@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oprea Ionel   oprea@git.training @awesomejustion92
 
 # THANKS
 
