@@ -3,7 +3,7 @@
 This is a simple website project for showing how to use GitHub
 
 This repository is for showing how Git and GitHub work.
-Adding a line fo rebassing example.
+Adding a line fo rebassing example, then more changes to myfeature brach too.
 
 ## Purpose
 
