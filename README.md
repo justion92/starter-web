@@ -2,7 +2,8 @@
 
 This is a simple website project for showing how to use GitHub
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+Adding a line fo rebassing example.
 
 ## Purpose
 
